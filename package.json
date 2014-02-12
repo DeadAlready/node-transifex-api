@@ -1,0 +1,22 @@
+{
+  "author": "Karl Düüna <karl.dyyna@gmail.com>",
+  "name": "transifex-api",
+  "version": "0.0.1",
+  "description": "Wrapper for Transifex REST API to simplify usage",
+  "keywords": [
+    "transifex",
+    "api",
+    "rest"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:DeadAlready/node-transifex-api"
+  },
+  "main": "lib/index.js",
+  "dependencies": {
+    "request": "~2.33.0"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
