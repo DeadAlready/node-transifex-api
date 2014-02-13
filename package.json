@@ -1,7 +1,7 @@
 {
   "author": "Karl Düüna <karl.dyyna@gmail.com>",
   "name": "transifex-api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Wrapper for Transifex REST API to simplify usage",
   "keywords": [
     "transifex",

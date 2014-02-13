@@ -1,6 +1,7 @@
 # Node Transifex API wrapper
 
 v0.0.1 - no documentation or tests, simply functions for all API endpoints.
+v0.0.2 - resourceContentPut now expects the key:value map of strings, does encoding itself
 
 # NOTICE: This module is very raw!
 
